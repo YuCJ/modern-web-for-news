@@ -1,2 +1,25 @@
-# modern-web-for-news
-世新課程簡報
+# 世新大學互動多媒體課程資料
+作者：余崇任（yucj@twreporter.org）
+
+### 課程資料
+
+- 第一週：
+  - [投影片](https://gitpitch.com/YuCJ/modern-web-for-news/master?grs=github&t=night&p=week-01)
+- 第二週：
+- 第三週：
+
+Made via [GitPitch](https://gitpitch.com/)
+
+### 附件
+
+- 我整理的[前端入門自學資源](resources.md)
+- 課程使用軟體和服務
+  -  [Visual Studio Code](https://code.visualstudio.com/)
+  -  [Source Tree](https://www.sourcetreeapp.com/)
+  - [CodePen](https://codepen.io)
+  - [Adobe Typekit](https://typekit.com/)
+- 課程引用圖片素材來源
+  - [いらすとや](https://www.irasutoya.com/)
+  - [Building the DOM faster: speculative parsing, async, defer and preload](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
+- 免費圖庫資源
+  - [電腦玩物整理](https://www.playpcesor.com/search/label/%E5%85%8D%E8%B2%BB%E5%9C%96%E5%BA%AB)、[免費資源網路社群整理](https://free.com.tw/tag/%e5%85%8d%e8%b2%bb%e5%9c%96%e5%ba%ab/)

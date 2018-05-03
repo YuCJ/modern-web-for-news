@@ -14,7 +14,6 @@
 
 - HTML 基礎：我的第一份網頁（中文影片） https://www.youtube.com/watch?v=SRbewm2AUew
 - CSS 基礎：幫網頁點綴一下（中文影片） https://www.youtube.com/watch?v=Jr7lwHnTK68
-- JavaScript 網頁前端工程進階：HTML 5（中文影片） https://training.pada-x.com/online.htm
 - JavaScript 網頁前端工程進階：CSS 3（中文影片） https://training.pada-x.com/online.htm
 
 另外有參考資料方便查語法：
@@ -35,6 +34,8 @@ CSS 有很多實務應用的技巧，這本書是個不錯的整理（以2017年
 
 - CSS Secrets（中譯實體書）http://www.books.com.tw/products/0010702536
 
+### 實務
+
 學完基礎的 CSS 語法，實務上要會的是怎麼用 CSS 安排網站版面，這部分可參考：
 
 - 學習 CSS 版面配置（中文網站） http://zh-tw.learnlayout.com/toc.html
@@ -49,7 +50,11 @@ Flexbox 和 Grid 是新的語法，通常專門用來排版，要進階可參考
 - 網頁就是這麼疊出來的（書）http://www.books.com.tw/products/0010732503
 - HTML5+CSS3 網頁版型設計：Standard Layout‧Grid Layout‧Single Page Layout（書）http://www.books.com.tw/products/0010731482
 
-## 關於前端技術該知道的事情
+HTML5 有些實用的新元素，主流瀏覽器大多都開始支援，可以開始多少知道一點：
+
+- JavaScript 網頁前端工程進階：HTML 5（中文影片） https://training.pada-x.com/online.htm
+
+## 開始補充前端技術的的相關電腦和業界知識
 
 在對 HTML 和 CSS 有些許瞭解後，就可以開始一邊多學一些開發用的技巧、工具、職業要求和關於網路的知識了：
 

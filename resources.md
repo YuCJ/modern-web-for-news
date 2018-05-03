@@ -121,22 +121,44 @@ Javascript 是一個還在發展的語言，有些新版本的語法是舊的課
 
 （待補）
 
-## Framework
+## Framework & Library
 
 Framework 是套用別人寫好的東西來幫你更~~偷懶地~~有效率地進行工作，實務上常用所以找工作必須要至少學會一套。至於要學哪套框架，最好的建議就是挑用的人多的，還有就是看你想進哪些公司就學他們用的：
 
 ### CSS Framework
 
-（待補）
+CSS Framework 並沒有太困難，你如果已經熟悉 HTML、CSS 並且略懂一點點 Javascript，看官方的說明文件就應該可以懂怎麼使用。
 
 ### Javascript Framework
 
-（待補）
+在 2018 年你有幾個選擇，對初學者來說，就看你想去的公司最多用哪個就學哪個…
+
+- React
+- Vue
+- Angular
+
+（資源待補）
+
+### Libraries
+
+前端有些工作是躲不掉的，例如操作DOM、做動畫、起 frontend server 或 proxy server、或是一些常用但沒有內建的函式，有人寫好不用重複造輪子
+
+- jQuery
+- lodash, underscore
+- Express, Koa
+- Anime.js, Animate.css, Velocity
+- axios, fetch
+
+（資源待補）
 
 ## Pre-Processing 和工作管理
 
-因為現在網站越來越複雜，所以發展出一些前端工作的 workflow 還有工具程式，幫你做掉必須手動重複的工作和更好的管理工作內容。
+因為現在網站越來越複雜，所以發展出一些前端工作的工具程式，幫你做掉必須手動重複的工作和更好的管理工作內容。
 
-（待補）
+- Webpack
+- Babel
+- Gulp
+
+（資源待補）
 
 

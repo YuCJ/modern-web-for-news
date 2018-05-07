@@ -15,7 +15,7 @@ Made via [GitPitch](https://gitpitch.com/)
 - 我整理的[前端入門自學資源](resources.md)
 - 課程使用軟體和服務
   -  [Visual Studio Code](https://code.visualstudio.com/)
-  -  [Source Tree](https://www.sourcetreeapp.com/)
+  -  [Source Tree](https://www.sourcetreeapp.com/) [安裝教學](https://dotblogs.com.tw/jamesfu/2016/05/09/sourcetree)
   - [CodePen](https://codepen.io)
   - [Adobe Typekit](https://typekit.com/)
 - 課程引用圖片素材來源

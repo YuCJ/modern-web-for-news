@@ -14,9 +14,7 @@ Made via [GitPitch](https://gitpitch.com/)
 
 - 我整理的[前端入門自學資源](resources.md)
 - 課程使用軟體和服務
-  -  [Visual Studio Code](https://code.visualstudio.com/)- 微軟出的開源免費程式碼編輯器，本課程可應用以下套件
-    - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-    - [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete)
+  -  [Visual Studio Code](https://code.visualstudio.com/)- 微軟出的開源免費程式碼編輯器，本課程可應用以下套件：- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)、[Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete)
   -  [Source Tree](https://www.sourcetreeapp.com/) - 有圖形操作介面的免費 Git 版本控制軟體（[安裝教學](https://dotblogs.com.tw/jamesfu/2016/05/09/sourcetree)）
   - [CodePen](https://codepen.io) - 可在線上寫 HTML, CSS, Javascript 即時預覽結果的 playground
   - [Adobe Typekit](https://typekit.com/) - 線上字型服務，個人使用有免費的 quota（[使用教學](https://free.com.tw/typekit-source-han-sans-webfont/)）

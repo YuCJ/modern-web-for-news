@@ -6,6 +6,7 @@
 - 第一週：
   - [投影片](https://gitpitch.com/YuCJ/modern-web-for-news/master?grs=github&t=night&p=week-01)
 - 第二週：
+  - [講義](https://github.com/YuCJ/modern-web-for-news/blob/master/week-02/PITCHME.md)
 - 第三週：
 
 Made via [GitPitch](https://gitpitch.com/)

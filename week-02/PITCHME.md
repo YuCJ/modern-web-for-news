@@ -39,38 +39,66 @@
 
 ## 操作步驟提示
 
-### 怎麼下載範例程式碼？（Github + Sourcetree）
+### 怎麼從別人的 Github 帳號下載範例程式碼來修改？（使用 Github 介面 + Sourcetree 軟體）
 
-1. 註冊 Github 帳號和安裝 Sourcetree 軟體
-2. 到 Github 網站上 [我們的專案範例程式碼](https://github.com/YuCJ/fullpage)  頁面 `fork`  程式碼到你自己的帳號
-3. 到你自己的帳號裡找存在雲端的程式碼網址，透過 Sourcetree 軟體把程式碼 `clone` 下來你的電腦
-4. 可以進行開發了～
+（需要先註冊 Github 帳號和安裝 Sourcetree 軟體）
 
-### 開發中要怎麼儲存新的版本記錄？（Sourcetree）
+**第一步，fork**：
 
-1. 在 `[WorkSpace] -> [File Status]` 可以看到你現在有什麼檔案是修改過還沒有存到版本記錄
+1. 到 Github 網站上 [我們的專案範例程式碼](https://github.com/YuCJ/fullpage)  頁面 `fork`  專案程式碼到你自己的帳號
+
+註：同樣的帳號只能有一個同樣的專案，如果你想要重新 fork 一次範例檔案，請先到你的專案頁面 [Settings] → [Delete this repository]
+
+**第二步，clone**：
+
+1. 到**你自己的帳號**裡找存在雲端的程式碼網址
+2. 透過 Sourcetree 軟體把程式碼 `clone` 下來你的電腦
+
+註：clone 錯專案怎麼辦？把電腦上錯誤的資料夾刪除，重新 clone 一次就好了
+
+![](../assets/git-clone-01.png)
+
+![](../assets/git-clone-02.png)
+
+![](../assets/git-clone-03.png)
+
+
+
+### 要怎麼把做好的修改發佈到 Github 上面？（使用 Sourcetree 軟體）
+
+（在你用編輯器做好檔案編輯修改，並**存檔**之後…）
+
+**第一步，先新增 commit，儲存新的版本記錄**
+
+1. 在 Sourcetree 軟體的左邊`[WorkSpace] -> [File Status]` 可以看到你現在有什麼檔案是修改過，但還沒有存到版本記錄
 2. 把要存到版本紀錄的檔案通通打勾
-3. 按左上角的 `commit +` ，就新增一個版本存檔了！（可以在 `[WorkSpace] -> [History]` 看到結果）
+3. 按左上角的 `commit +`，就新增一個版本存檔了！（可以在 `[WorkSpace] -> [History]` 看到結果）
+
+**第二步，把新的 commit push 到 Github 你的帳號上面**
+
+1. 點 Sourcetree 軟體上方工具列的 `Push ↑`
+2. [Push to repository] 選 `origin` （後面網址就是你的專案在 Github 上的位置）
+3. [Branches to push] ，把 local brach 和 remote branch 都選 `master` 並打勾
+4. 點OK，可能會需要登入 Github，認證你有權限可以上傳到該專案
+5. 上傳完成！
+
+
 
 ### 要怎麼復原到之前的版本？（Sourcetree）
 
-1. 在 `[WorkSpace] -> [History]` 找到你要復原到的版本紀錄點
+1. 在 Sourcetree 軟體的左邊 `[WorkSpace] -> [History]` 找到你要復原到的版本紀錄點
 2. 對他按右鍵 -> [Reset master to this commit]
 3. 問你要選什麼復原模式 -> 選 [Hard - discard all working copy changes] ，也就是會放棄記錄點之後的所有變更
 4. 會跳出警告說「確定要放棄全部變更」嗎？選 [OK]
 5. 復原完成
 
-### 要怎麼把做好的修改發佈到 Github 上面？（Sourcetree）
+註：使用復原功能後，如果要再更新到 Github 上面，在 `Push` 時的對話視窗要把 [Force Push] 打勾才可以。如果對話視窗沒有出現 [Force Push]，請到工作列 [Sourcetree] -> [Preferences] -> [Advanced] 把 [Allow Force Push] 打勾開啟。
 
-1. 點上方工具列的 `Push ↑`
-2. [Push to repository] 選 `origin` （後面網址就是你的專案在 Github 上的位置）
-3. [Branches to push] ，把 local brach 和 remote branch 都選 `master` 並打勾
-4. 點OK，可能會需要登入 Github 認證你有權限可以上傳到該專案
-5. 上傳完成！
+![](../assets/git-push.png)
 
-註：如果你有修改過過去的紀錄（例如曾經 reset 到先前的版本），在 `Push` 的對話視窗要把 [Force Push] 打勾才可以。如果對話視窗沒有出現 [Force Push]，請到工作列 [Sourcetree] -> [Preference] -> [Advanced] 把 [Allow Force Push] 打勾。
 
-### 怎麼公開網頁？（Github）
+
+### 怎麼用 Github Page 公開網頁？（Github）
 
 1. 在你把範例程式碼 `fork` 到你自己的 Github Repositories 後，就可以到你的 Github 該 repo 頁面
 2. 在專案頁面選 [Settings]
@@ -87,3 +115,4 @@
 - 安裝plugin
 - live server 使用
 - 開發和快速鍵
+

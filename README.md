@@ -3,6 +3,8 @@
 
 ### 課程資料
 
+範例程式碼：https://github.com/YuCJ/fullpage
+
 - 第一週：
   - [投影片](https://gitpitch.com/YuCJ/modern-web-for-news/master?grs=github&t=night&p=week-01)
 - 第二週：

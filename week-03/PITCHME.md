@@ -1,5 +1,6 @@
 # HTML 編輯教學
 
+範例程式碼：https://github.com/YuCJ/fullpage
 
 
 ## 安裝 VSCode 的好用 plugins

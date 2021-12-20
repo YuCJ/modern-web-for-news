@@ -8,7 +8,7 @@
 
 我覺得這本書讀完就大概瞭解 HTML 和 CSS 所有需要的基礎知識了：
 
-- HTML&CSS：網站設計建置優化之道（中譯實體書）http://www.books.com.tw/products/0010546014（舊版的選擇器表格內容有誤，可參考 [W3C](https://www.w3schools.com/cssref/css_selectors.asp) 或 [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) 的表格 ）
+- HTML&CSS：網站設計建置優化之道（中譯實體書）http://www.books.com.tw/products/0010546014 （舊版的選擇器表格內容有誤，可參考 [W3C](https://www.w3schools.com/cssref/css_selectors.asp) 或 [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) 的表格 ）
 
 如果習慣看影片，可參考：
 
